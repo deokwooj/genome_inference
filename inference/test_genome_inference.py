@@ -101,7 +101,7 @@ class GenomeInferenceTest(unittest.TestCase):
 
         data_seq_gth = seq_sim.get_simul_data(seq_len).astype(int)
         p1_empr = np.count_nonzero(data_seq_gth) / seq_len
-        np_test.assert_array_almost_equal(p1_empr, p1, decimal=3)
+        np_test.assert_array_almost_equal(p1_empr, p1, decimal=2)
 
         df_test_data = seq_sim.reading_genome_seq(seq_gth=data_seq_gth,
                                                   num_reads=num_reads,
