@@ -19,7 +19,7 @@ genome-inference requires:
 
 - For unit test, run 
 
-    pytest inference
+```pytest inference ```
 
 - For demo test, run 
     ./test.sh run
