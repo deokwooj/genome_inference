@@ -15,7 +15,7 @@ genome-inference requires:
 - Pandas (>= 1.0.3)
 - pytest (>= 5.0.1)
 
-### Testing
+## Testing
 
   - For unit test, run  ```pytest inference ```
 
