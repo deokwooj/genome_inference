@@ -17,19 +17,15 @@ genome-inference requires:
 
 ### Testing
 
-- For unit test, run 
+.. For unit test, run  ```pytest inference ```
 
-```pytest inference ```
-
-- For demo test, run 
-    ./test.sh run
+.. For demo test, run  ``` ./test.sh run```
 
 ## Usage
-- For data generation, go to /inference and run
-  python data_generator.py
+.. For data generation, go to /inference and run  ``` python data_generator.py```
 
-- For inference task, run 
-  python nfer-app.py  --sham ${INFILE} --out ${OUTFILE} --p01  ${P01} --p10 ${P10}  --prior1 ${PRIOR1}
+.. For inference task, run 
+  ```python nfer-app.py  --sham ${INFILE} --out ${OUTFILE} --p01  ${P01} --p10 ${P10}  --prior1 ${PRIOR1}```
 
 ## License
 [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause/)
