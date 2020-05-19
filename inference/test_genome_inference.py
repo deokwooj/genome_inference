@@ -1,3 +1,5 @@
+"""Testing for GenomeSequenceGenerator and  GenomeSequenceInference"""
+
 import unittest
 
 import numpy as np

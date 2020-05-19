@@ -1,5 +1,7 @@
 """Bayesian genome-inference algorithm"""
 
+# Author: Deokwoo Jung deokwooj@gmail.com
+# License: BSD 3 clause
 from collections import defaultdict, Counter
 
 import numpy as np

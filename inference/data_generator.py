@@ -1,4 +1,7 @@
 """Genome sequence data simulator """
+
+# Author: Deokwoo Jung deokwooj@gmail.com
+# License: BSD 3 clause
 from collections import defaultdict
 
 import numpy as np
