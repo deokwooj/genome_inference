@@ -16,6 +16,6 @@ case $1 in
       echo "${OUTFILE} removed"
    ;;
    *)
-      echo "usage: pdm_xxxapi {run|clear}" ;;
+      echo "usage: ./test.sh {run|clear}" ;;
 esac
 exit 0
