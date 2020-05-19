@@ -26,7 +26,7 @@ genome-inference requires:
 
   - For inference task, run 
 
-     ```python nfer-app.py  --sham ${INFILE} --out ${OUTFILE} --p01  ${P01} --p10 ${P10}  --prior1 ${PRIOR1}```
+     ```python infer-app.py  --sham ${INFILE} --out ${OUTFILE} --p01  ${P01} --p10 ${P10}  --prior1 ${PRIOR1}```
 
 ## License
 [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause/)
