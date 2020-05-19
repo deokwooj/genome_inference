@@ -17,14 +17,14 @@ genome-inference requires:
 
 ### Testing
 
-...For unit test, run  ```pytest inference ```
+  *For unit test, run  ```pytest inference ```
 
-...For demo test, run  ``` ./test.sh run```
+  *For demo test, run  ``` ./test.sh run```
 
 ## Usage
-...For data generation, go to /inference and run  ``` python data_generator.py```
+  *For data generation, go to /inference and run  ``` python data_generator.py```
 
-...For inference task, run 
+  *For inference task, run 
 
   ```python nfer-app.py  --sham ${INFILE} --out ${OUTFILE} --p01  ${P01} --p10 ${P10}  --prior1 ${PRIOR1}```
 
