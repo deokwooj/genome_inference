@@ -111,11 +111,6 @@
               <item name="Bayesian-genome-inference" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bayesian-genome-inference" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Bayesian-genome-inference" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bayesian-genome-inference" type="462c0819:PsiDirectoryNode" />
-              <item name="inference" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -128,7 +123,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -185,18 +180,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589869481094</updated>
-      <workItem from="1589869483481" duration="6703000" />
+      <workItem from="1589869483481" duration="8672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6703000" />
+    <option name="totallyTimeSpent" value="8672000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1497" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1555" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2467354" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23727693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,14 +205,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="File Transfer" order="9" weight="0.28976697" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.8836378" visible="true" weight="0.42350557" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.8836378" visible="true" weight="0.51570415" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.22637014" side_tool="true" weight="0.2431611" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.77362984" weight="0.3556231" />
-      <window_info anchor="right" x="0" y="0" width="590" height="880" id="Documentation" sideWeight="0.50087875" side_tool="true" visible="true" weight="0.16219932" />
+      <window_info anchor="right" x="0" y="0" width="590" height="880" id="Documentation" sideWeight="0.50209206" side_tool="true" visible="true" weight="0.1559815" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" sideWeight="0.49912128" visible="true" weight="0.16219932" />
+      <window_info anchor="right" id="R Graphics" order="3" sideWeight="0.49790794" visible="true" weight="0.1559815" />
       <window_info anchor="right" id="Remote Host" order="4" weight="0.2722833" />
       <window_info anchor="right" x="783" y="242" width="113" height="565" id="SciView" order="5" weight="0.06898657" />
       <window_info anchor="right" id="R Packages" order="6" weight="0.32967034" />
@@ -302,5 +297,20 @@
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4241206" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
